@@ -6,7 +6,3 @@
 ## About
 I create Unix command line utilities for people who spend many hours in the command line, like I do.
 
-
-## GitHub Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=true)
