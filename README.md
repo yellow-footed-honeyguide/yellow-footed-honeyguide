@@ -1,4 +1,3 @@
-![Alt text](./github_photo.jpg "Optional title")
 # Sergey Veneckiy
 [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram)](https://t.me/SergeyVenetsky)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?logo=gmail)](mailto:s.venetsky@gmail.com)
