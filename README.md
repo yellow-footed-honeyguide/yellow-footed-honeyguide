@@ -18,8 +18,7 @@ I'm crafting powerful tools for terminal enthusiasts and power users.
 - Handpicked suite of cutting-edge CLI utilities
 - Arsenal of lesser-known, high-impact terminal commands
 - Advanced git commands
-- Advanced 
-- .gitconfig with potent Git aliases
+- Advanced .gitconfig with potent Git aliases
 - Supercharged .zshrc for ultimate shell efficiency
 - Optimized .vimrc for turbocharged text editing
 
