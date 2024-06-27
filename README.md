@@ -15,18 +15,13 @@ I'm crafting powerful tools for terminal enthusiasts and power users.
 - great-commands: Curated collection of productivity-boosting CLI tools
 
 🔧 Collections of useful CLI commands and configs: 
-
-  • Handpicked suite of cutting-edge CLI utilities
-
-  • Arsenal of lesser-known, high-impact terminal commands
-
-  • Advanced git commands
-
-  • Advanced .gitconfig with potent Git aliases
-
-  • Supercharged .zshrc for ultimate shell efficiency
-
-  • Optimized .vimrc for turbocharged text editing
+- Handpicked suite of cutting-edge CLI utilities
+- Arsenal of lesser-known, high-impact terminal commands
+- Advanced git commands
+- Advanced 
+- .gitconfig with potent Git aliases
+- Supercharged .zshrc for ultimate shell efficiency
+- Optimized .vimrc for turbocharged text editing
 
 💡 Mission: Empowering developers and sysadmins with robust, efficient, and innovative command-line solutions that maximize productivity and streamline complex workflows.
 
