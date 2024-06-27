@@ -9,6 +9,7 @@ Command Line Craftsman | Unix Utility Creator
 I specialize in developing Unix command line utilities tailored for power users who, like me, spend significant time in terminal environments. My tools are designed to enhance productivity and streamline workflows for those who live by the command line.
 
 Featured Repository: great_commands
+
 This repository is a curated collection of advanced configurations and powerful command line tools:
 - Enhanced .gitconfig with advanced Git commands
 - Optimized .vimrc for efficient text editing
