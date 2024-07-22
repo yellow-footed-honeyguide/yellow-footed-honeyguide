@@ -5,7 +5,7 @@
 
 ## About Me
 
-I craft CLI tools for terminal enthusiasts and power users, pushing the boundaries of command-line efficiency.
+I craft command-line tools for Unix enthusiasts and power users, pushing the boundaries of command-line efficiency.
 
 ## 🛠️ Utilities
 
