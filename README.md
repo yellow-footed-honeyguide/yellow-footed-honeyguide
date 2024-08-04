@@ -1,6 +1,6 @@
 # Sergey Veneckiy
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?logo=gmail)](mailto:s.venetsky@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-blue?logo=gmail)](mailto:s.venetsky@gmail.com)
 
 ## About Me
 
