@@ -34,11 +34,13 @@ Empower developers and sysadmins with robust, efficient, and innovative command-
 - Streamline complex workflows
 - Enhance daily terminal interactions
 
+---
+
+> Join me in revolutionizing what's possible in the terminal world!
+
 
 ## GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=true)
 
----
 
-> Join me in revolutionizing what's possible in the terminal world!
