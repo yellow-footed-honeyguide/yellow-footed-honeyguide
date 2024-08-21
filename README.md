@@ -7,9 +7,7 @@
 I craft CLI utilities for Unix enthusiasts and power users, pushing the boundaries of command-line efficiency.
 
 
-## GitHub Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=true)
 
 ## 🛠️ Utilities
 
@@ -44,6 +42,11 @@ Empower developers and sysadmins with robust, efficient, and innovative command-
 - Maximize productivity
 - Streamline complex workflows
 - Enhance daily terminal interactions
+
+
+## GitHub Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=true)
 
 ---
 
