@@ -17,6 +17,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | `unpak` | Universal archive extraction utility |
 | `inf` | CLI tool for comprehensive file analysis  |
 | `facad` | A modern, colorful directory listing tool for the command line  |
+| `eagleshot` | Wayland screenshot utility: Capture your screen like a eagle. No fuss, just results |
 
 ## 🛠️ Commands & Configs
 | List        | Description |
