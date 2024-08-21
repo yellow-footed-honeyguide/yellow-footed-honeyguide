@@ -7,8 +7,6 @@
 I craft CLI utilities for Unix enthusiasts and power users, pushing the boundaries of command-line efficiency.
 
 
-
-
 ## 🛠️ Utilities
 
 | Tool | Description |
@@ -26,14 +24,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | `great-commands` | Curated collection of productivity-boosting CLI tools |
 | `great-configs`  | A curated set of command-line utilities configs |
 
-## 🔧 CLI Resources
 
-- **Cutting-edge utilities**: Handpicked suite of modern CLI tools
-- **Terminal mastery**: Arsenal of lesser-known, high-impact commands
-- **Git expertise**: Advanced commands and potent aliases
-- **Shell optimization**: 
-  - Supercharged `.zshrc` for ultimate efficiency
-  - Turbocharged `.vimrc` for lightning-fast text editing
 
 ## 💡 Mission
 
