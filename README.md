@@ -6,6 +6,11 @@
 
 I craft CLI utilities for Unix enthusiasts and power users, pushing the boundaries of command-line efficiency.
 
+
+## GitHub Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=true)
+
 ## 🛠️ Utilities
 
 | Tool | Description |
@@ -14,7 +19,14 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | `nooks` | Swift directory navigation and bookmarking system |
 | `mdflash` | Real-time Markdown preview in your terminal |
 | `unpak` | Universal archive extraction utility |
+| `inf` | CLI tool for comprehensive file analysis  |
+| `facad` | A modern, colorful directory listing tool for the command line  |
+
+## 🛠️ Commands & Configs
+| List        | Description |
+|-------------|-------------|
 | `great-commands` | Curated collection of productivity-boosting CLI tools |
+| `great-configs`  | A curated set of command-line utilities configs |
 
 ## 🔧 CLI Resources
 
