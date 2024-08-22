@@ -22,8 +22,8 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 ## 🛠️ Commands & Configs
 | List        | Description |
 |-------------|-------------|
-| `great-commands` | Curated collection of productivity-boosting CLI tools |
-| `great-configs`  | A curated set of command-line utilities configs |
+| [great-commands](https://github.com/yellow-footed-honeyguide/great-commands)| Curated collection of productivity-boosting CLI tools |
+| [great-configs](https://github.com/yellow-footed-honeyguide/great-configs)  | A curated set of command-line utilities configs |
 
 
 
