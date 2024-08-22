@@ -58,3 +58,13 @@ Empower developers and sysadmins with robust, efficient, and innovative command-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=false&theme=default&bg_color=ffffff&title_color=163852&text_color=163852&icon_color=f5b836&border_color=163852&border_radius=10&custom_title=My%20GitHub%20Snapshot&card_width=495&line_height=30&ring_color=f5b836&show_owner=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-footed-honeyguide&layout=compact&theme=default&title_color=163852&text_color=163852&bg_color=ffffff&border_color=163852&border_radius=10&card_width=495)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yellow-footed-honeyguide&theme=default&background=ffffff&border=163852&ring=f5b836&fire=f5b836&currStreakNum=163852&sideNums=163852&currStreakLabel=163852&sideLabels=163852&dates=163852)
+
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yellow-footed-honeyguide&bg_color=ffffff&color=163852&line=f5b836&point=163852&area_color=f5b836&area=true&hide_border=false&custom_title=GitHub%20Activity%20Graph)
+
+
+
