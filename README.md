@@ -50,5 +50,5 @@ Empower developers and sysadmins with robust, efficient, and innovative command-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yellow-footed-honeyguide&theme=default&background=ffffff&border=163852&ring=f5b836&fire=f5b836&currStreakNum=163852&sideNums=163852&currStreakLabel=163852&sideLabels=163852&dates=163852)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yellow-footed-honeyguide&bg_color=ffffff&color=f5b836&line=f5b836&point=163852&area_color=f5b836&area=true&hide_border=false&custom_title=GitHub%20Contribution%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yellow-footed-honeyguide&bg_color=ffffff&color=163852&line=163852&point=f5b836&area_color=163852&area=true&hide_border=false&custom_title=GitHub%20Contribution%20Graph)
 
