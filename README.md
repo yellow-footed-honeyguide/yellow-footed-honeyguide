@@ -53,6 +53,7 @@ Empower developers and sysadmins with robust, efficient, and innovative command-
 ![github stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=contribs,issues&custom_title=GitHub%20Overview&layout=compact&card_width=300&line_height=20)
 
 
+![github stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=false&theme=transparent&bg_color=163852&title_color=f5b836&text_color=ffffff&icon_color=f5b836&border_color=f5b836&hide_border=false&include_all_commits=true&custom_title=My%20GitHub%20Activity)
 
 
 
