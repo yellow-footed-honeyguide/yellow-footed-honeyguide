@@ -11,7 +11,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 
 | Tool | Description |
 |------|-------------|
-| `uc` | Intuitive Unix command-line calculator |
+| [uc](https://github.com/yellow-footed-honeyguide/uc) | Intuitive Unix command-line calculator |
 | `nooks` | Swift directory navigation and bookmarking system |
 | `mdflash` | Real-time Markdown preview in your terminal |
 | `unpak` | Universal archive extraction utility |
