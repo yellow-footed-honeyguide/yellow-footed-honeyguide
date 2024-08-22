@@ -12,12 +12,12 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | Tool | Description |
 |------|-------------|
 | [uc](https://github.com/yellow-footed-honeyguide/uc) | Intuitive Unix command-line calculator |
-| `nooks` | Swift directory navigation and bookmarking system |
-| `mdflash` | Real-time Markdown preview in your terminal |
-| `unpak` | Universal archive extraction utility |
-| `inf` | CLI tool for comprehensive file analysis  |
-| `facad` | A modern, colorful directory listing tool for the command line  |
-| `eagleshot` | Wayland screenshot utility: Capture your screen like a eagle. No fuss, just results |
+| [nooks](https://github.com/yellow-footed-honeyguide/nooks) | Swift directory navigation and bookmarking system |
+| [mdflash](https://github.com/yellow-footed-honeyguide/mdflash) | Real-time Markdown preview in your terminal |
+| [unpak](https://github.com/yellow-footed-honeyguide/unpak) | Universal archive extraction utility |
+| [inf](https://github.com/yellow-footed-honeyguide/inf) | CLI tool for comprehensive file analysis  |
+| [facad](https://github.com/yellow-footed-honeyguide/facad) | A modern, colorful directory listing tool for the command line  |
+| [eagleshot](https://github.com/yellow-footed-honeyguide/eagleshot) | Wayland screenshot utility: Capture your screen like a eagle. No fuss, just results |
 
 ## 🛠️ Commands & Configs
 | List        | Description |
