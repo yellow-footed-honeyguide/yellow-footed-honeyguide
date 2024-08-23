@@ -17,7 +17,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | [unpak](https://github.com/yellow-footed-honeyguide/unpak) | Universal archive extraction utility |
 | [inf](https://github.com/yellow-footed-honeyguide/inf) | CLI tool for comprehensive file analysis  |
 | [facad](https://github.com/yellow-footed-honeyguide/facad) | A modern, colorful directory listing tool for the command line  |
-| [eagleshot](https://github.com/yellow-footed-honeyguide/eagleshot) | Wayland screenshot utility: Capture your screen like a eagle. No fuss, just results |
+| [eagleshot](https://github.com/yellow-footed-honeyguide/eagleshot) | Wayland screenshot utility |
 
 ## 🛠️ Commands & Configs
 | List        | Description |
