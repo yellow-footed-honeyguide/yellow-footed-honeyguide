@@ -12,7 +12,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | Tool | Description |
 |------|-------------|
 | [uc](https://github.com/yellow-footed-honeyguide/uc) | Intuitive Unix command-line calculator |
-| [nooks](https://github.com/yellow-footed-honeyguide/nooks) | Swift directory navigation and bookmarking system |
+| [nooks](https://github.com/yellow-footed-honeyguide/nooks) | Effortlessly save and navigate to your bookmarked directories on any Unix-like system 🗂️ |
 | [mdflash](https://github.com/yellow-footed-honeyguide/mdflash) | Real-time Markdown preview in your terminal |
 | [unpak](https://github.com/yellow-footed-honeyguide/unpak) | Universal archive extraction utility |
 | [inf](https://github.com/yellow-footed-honeyguide/inf) | CLI tool for comprehensive file analysis  |
