@@ -44,8 +44,9 @@ Empower developers and sysadmins with robust, efficient, and innovative command-
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=false&theme=default&bg_color=ffffff&title_color=163852&text_color=163852&icon_color=f5b836&border_color=163852&border_radius=10&custom_title=My%20GitHub%20Snapshot&card_width=495&line_height=30&ring_color=f5b836&show_owner=true)-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&theme=default&bg_color=ffffff&title_color=163852&text_color=163852&icon_color=f5b836&border_color=163852&border_radius=10&card_width=495&custom_title=Yellow-Footed-Honeyguide%20Pixel%20Forge)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&theme=default&bg_color=ffffff&title_color=163852&text_color=163852&icon_color=f5b836&border_color=163852&border_radius=10&card_width=495&custom_title=Yellow-Footed-Honeyguide%20Pixel%20Forge)-->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yellow-footed-honeyguide&show_icons=true&count_private=true&hide_title=false&theme=default&bg_color=ffffff&title_color=163852&text_color=163852&icon_color=f5b836&border_color=163852&border_radius=10&custom_title=My%20GitHub%20Snapshot&card_width=495&line_height=30&ring_color=f5b836&show_owner=true&custom_title=Honeyguide%20Pixel%20Forge)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-footed-honeyguide&layout=compact&theme=default&title_color=163852&text_color=163852&bg_color=ffffff&border_color=163852&border_radius=10&card_width=495)
