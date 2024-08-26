@@ -25,6 +25,10 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | [great-commands](https://github.com/yellow-footed-honeyguide/great-commands)| Curated collection of productivity-boosting CLI tools |
 | [great-configs](https://github.com/yellow-footed-honeyguide/great-configs)  | A curated set of command-line utilities configs |
 
+## 🛠️ Benchmarks
+| List        | Description |
+|-------------|-------------|
+| [benchmark-c-vs-all](https://github.com/yellow-footed-honeyguide/benchmark-c-vs-all)| C vs C++ vs Rust vs Go. High-performance language showdown |
 
 
 ## 💡 Mission
