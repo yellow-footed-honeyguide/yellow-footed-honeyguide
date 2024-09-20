@@ -29,6 +29,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | List        | Description |
 |-------------|-------------|
 | [benchmark-c-vs-all](https://github.com/yellow-footed-honeyguide/benchmark-c-vs-all)| C vs C++ vs Rust vs Go. High-performance language showdown |
+| [autotools-cmake-meson-bazel-comparison] (https://github.com/yellow-footed-honeyguide/autotools-cmake-meson-bazel-comparison) | Comparison of 4 major metabuild systems of nowdays |
 
 
 ## 💡 Mission
