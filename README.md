@@ -2,6 +2,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-blue?logo=gmail)](mailto:s.venetsky@gmail.com)
 
+
+![github_photo](github_photo.jpg)
+
 ## About Me
 
 I craft CLI utilities for Unix enthusiasts and power users, pushing the boundaries of command-line efficiency.
