@@ -19,7 +19,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | [mdflash](https://github.com/yellow-footed-honeyguide/mdflash) | Real-time Markdown preview in your terminal |
 | [unpak](https://github.com/yellow-footed-honeyguide/unpak) | Universal archive extraction utility |
 | [inf](https://github.com/yellow-footed-honeyguide/inf) | CLI tool for comprehensive file analysis  |
-| [facad](https://github.com/yellow-footed-honeyguide/facad) | A modern, colorful directory listing tool for the command line  |
+| [facad](https://github.com/yellow-footed-honeyguide/facad) | A modern, colorful ls alternative for bringing clarity to the filesystem |
 | [eagleshot](https://github.com/yellow-footed-honeyguide/eagleshot) | Wayland screenshot utility |
 
 ## 🛠️ Commands & Configs
