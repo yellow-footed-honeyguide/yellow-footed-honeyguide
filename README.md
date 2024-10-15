@@ -7,6 +7,9 @@
 [![Email](https://img.shields.io/badge/Email-Holla%20at%20Me-f5b836?logo=neowin&logoColor=white)](mailto:s.venetsky@gmail.com)
 [![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-f5b836?logo=minutemailer&logoColor=white)](mailto:s.venetsky@gmail.com)
 [![Email](https://img.shields.io/badge/Email-Ping%20Me-f5b836?logo=protonmail&logoColor=white)](mailto:s.venetsky@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hit_me_up_bro%40gmail.com-f5b836?style=flat-square&logo=maildotru&logoColor=white)](mailto:s.venetsky@gmail.com)
+
+
 ## About Me
 
 I craft CLI utilities for Unix enthusiasts and power users, pushing the boundaries of command-line efficiency.
