@@ -2,7 +2,7 @@
 
 # Sergey Veneckiy
 
-[![Email](https://img.shields.io/badge/Email-s.venetsky%40gmail.com-f5b836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.venetsky@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.venetsky@gmail.com)
 
 ## About Me
 
