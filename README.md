@@ -3,7 +3,7 @@
 # Sergey Veneckiy
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.venetsky@gmail.com)
-[![views](https://img.shields.io/github/watchers/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat-square&color=f5b836&label=Profile%20views&logo=codecov)](https://github.com/yellow-footed-honeyguide)
+[![views](https://img.shields.io/github/watchers/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat-square&color=f5b836&label=Profile%20views&logo=github)](https://github.com/yellow-footed-honeyguide)
 ## About Me
 
 I craft CLI utilities for Unix enthusiasts and power users, pushing the boundaries of command-line efficiency.
