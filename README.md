@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.venetsky@gmail.com)
 [![views](https://komarev.com/ghpvc/?username=yellow-footed-honeyguide&style=flat-square&color=f5b836&label=views&abbreviated=true)](https://github.com/yellow-footed-honeyguide)
-[![views](https://img.shields.io/github/watchers/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat&color=313131&label=views)](https://github.com/yellow-footed-honeyguide)
+[![views](https://img.shields.io/github/watchers/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat-square&color=f5b836&label=views)](https://github.com/yellow-footed-honeyguide)
 ## About Me
 
 I craft CLI utilities for Unix enthusiasts and power users, pushing the boundaries of command-line efficiency.
