@@ -5,8 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=f5b836)](mailto:s.venetsky@gmail.com)
 [![Last Commit](https://img.shields.io/github/last-commit/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat-square&color=f5b836&label=Last%20commit&logo=git&logoColor=f5b836)](https://github.com/yellow-footed-honeyguide)
 [![Profile views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fyellow-footed-honeyguide%2Fyellow-footed-honeyguide.json&style=flat-square&color=f5b836&label=Profile%20views&logo=github&logoColor=f5b836)](https://github.com/yellow-footed-honeyguide)
-[![Profile views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fyellow-footed-honeyguide%2Fyellow-footed-honeyguide.json&style=flat-square&color=f5b836&label=Profile%20views&logo=github&logoColor=f5b836&labelColor=555555)](https://github.com/yellow-footed-honeyguide)
-[![Profile views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyellow-footed-honeyguide.yellow-footed-honeyguide%2Fvisits&style=flat-square&label=Profile%20views&query=$.value&color=f5b836&logo=github&logoColor=f5b836)](https://github.com/yellow-footed-honeyguide)
+
 
 ## About Me
 
