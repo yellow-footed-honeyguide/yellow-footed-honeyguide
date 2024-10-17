@@ -4,8 +4,8 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=f5b836)](mailto:s.venetsky@gmail.com)
 [![views](https://img.shields.io/github/watchers/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat-square&color=f5b836&label=Profile%20views&logo=github&logoColor=f5b836)](https://github.com/yellow-footed-honeyguide)
-[![Last Commit](https://img.shields.io/github/last-commit/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat-square&color=f5b836&label=Last%20commit&logo=github&logoColor=f5b836)](https://github.com/yellow-footed-honeyguide)
-[![Profile Views](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyellow-footed-honeyguide&labelColor=%23555&countColor=%23f5b836)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyellow-footed-honeyguide)
+[![Last Commit](https://img.shields.io/github/last-commit/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat-square&color=f5b836&label=Last%20commit&logo=git&logoColor=f5b836)](https://github.com/yellow-footed-honeyguide)
+
 
 [![Profile views](https://komarev.com/ghpvc/?username=yellow-footed-honeyguide&label=Profile%20views&color=f5b836&style=flat-square)](https://github.com/yellow-footed-honeyguide)
 ## About Me
