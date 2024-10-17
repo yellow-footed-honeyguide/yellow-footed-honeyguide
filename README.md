@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=for-the-badge&logo=gmail&logoColor=f5b836)](mailto:s.venetsky@gmail.com)
 
-[![Emails](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=for-the-badge&logo=gmail&logoColor=f5b836&labelColor=black&color=f5b836&label=Contact%20me)](mailto:s.venetsky@gmail.com)
+[![Emails](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=for-the-badge&logo=gmail&logoColor=f5b836&labelColor=black&color=f5b836)](mailto:s.venetsky@gmail.com)
 [![Profile views](https://img.shields.io/github/watchers/yellow-footed-honeyguide/yellow-footed-honeyguide?style=for-the-badge&logo=github&logoColor=f5b836&labelColor=black&color=f5b836&label=Profile%20views)](https://github.com/yellow-footed-honeyguide)
 ## About Me
 
