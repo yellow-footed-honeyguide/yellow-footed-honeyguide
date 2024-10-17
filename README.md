@@ -3,6 +3,7 @@
 # Sergey Veneckiy
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.venetsky@gmail.com)
+[![views](https://komarev.com/ghpvc/?username=yellow-footed-honeyguide&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/yellow-footed-honeyguide)
 
 ## About Me
 
