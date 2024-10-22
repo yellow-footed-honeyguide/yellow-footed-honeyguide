@@ -23,6 +23,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | [inf](https://github.com/yellow-footed-honeyguide/inf) | CLI tool for comprehensive file analysis  |
 | [facad](https://github.com/yellow-footed-honeyguide/facad) | A modern, colorful ls alternative for bringing clarity to the filesystem |
 | [eagleshot](https://github.com/yellow-footed-honeyguide/eagleshot) | Wayland screenshot utility |
+| [codefetch ](https://github.com/yellow-footed-honeyguide/codefetch) | Fast & comprehensive tool for source code analysis |
 
 ## 🛠️ Commands & Configs
 | List        | Description |
