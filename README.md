@@ -3,7 +3,6 @@
 # Sergey Veneckiy
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=f5b836)](mailto:s.venetsky@gmail.com)
-[![Last Commit](https://img.shields.io/github/last-commit/yellow-footed-honeyguide/yellow-footed-honeyguide?style=flat-square&color=f5b836&label=Last%20commit&logo=git&logoColor=f5b836)](https://github.com/yellow-footed-honeyguide)
 
 
 ## About Me
