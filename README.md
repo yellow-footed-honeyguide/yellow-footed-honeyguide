@@ -1,6 +1,6 @@
 ![github_photo](github_photo.jpg)
 
-# Sergey Veneckiy
+# Sergey Venetsky
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-f5b836?style=flat-square&logo=gmail&logoColor=f5b836)](mailto:s.venetsky@gmail.com)
 
