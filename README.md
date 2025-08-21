@@ -22,7 +22,7 @@ I craft CLI utilities for Unix enthusiasts and power users, pushing the boundari
 | [facad](https://github.com/yellow-footed-honeyguide/facad) | A modern, colorful ls alternative for bringing clarity to the filesystem |
 | [eagleshot](https://github.com/yellow-footed-honeyguide/eagleshot) | Wayland screenshot utility |
 | [codefetch ](https://github.com/yellow-footed-honeyguide/codefetch) | Fast & comprehensive tool for source code analysis |
-| [prompt-codex](https://github.com/yellow-footed-honeyguide/prompt-codex) | LLM links & Prompt Collection
+| [prompt-engineers-atlas](https://github.com/yellow-footed-honeyguide/prompt-engineers-atlas) | LLM links & Prompt Collection
 
 ## 🛠️ Commands & Configs
 | List        | Description |
